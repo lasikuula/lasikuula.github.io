@@ -6,6 +6,6 @@
 
 * Template1: https://lasikuula.github.io/template1/index.html
 
-* School project1: https://lasikuula.github.io/schoolproject1/
+* School project1: https://lasikuula.github.io/harjoitustyo/index.html ( Navigation and Portfolio site not work here. Use this, if you want see them work right: https://student.labranet.jamk.fi/~L4062/harjoitustyo/index.html )
 
 
