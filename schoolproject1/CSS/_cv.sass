@@ -1,0 +1,82 @@
+.bg-cv-darker
+    background-color: #ead9e9
+
+.bg-cv-light
+    background-color: #ffeefe
+
+.mt-top
+    margin-top: 85px
+
+.cv-centerkuva
+    display: block
+    margin-left: auto
+    margin-right: auto
+    width: 100%
+
+.cv-header
+    font-family: "Courier New", Courier, monospace
+    text-transform: uppercase
+    letter-spacing: 3px
+    font-size: 1.5em
+    font-weight: 100
+    color: #ab7897
+
+.cv-title
+    font-family: "Courier New", Courier, monospace
+    font-size: 1em
+    font-weight: 100
+    color: #afa6b3
+
+.education
+    line-height: 0.5em
+
+.skill
+    height: 20px
+    min-width: 90%
+    margin: 0 auto 10px
+    line-height: 20px
+    padding: 0 0 0 10px
+    position: relative
+
+.skill:before
+    content: ''
+    width: 100%
+    top: 0
+    left: 0
+    position: absolute
+    background: #bf86b4
+    border-radius: 5px
+    height: 20px
+    z-index: 2
+
+.skill:after
+    content: ''
+    height: 20px
+    width: 100%
+    top: 0
+    left: 0
+    position: absolute    
+    border-radius: 5px
+    background: #8e4270
+    transition: 0.8s
+    display: block
+    animation: kehitys 1 5s
+    z-index: 3
+
+.skill1:after
+    max-width: 90%
+
+.skill2:after
+    max-width: 60%
+
+.skill3:after
+    max-width: 50%
+
+.skill4:after
+    max-width: 30%
+
+@keyframes kehitys
+    0%
+        width: 0
+    100%
+        width: 100%

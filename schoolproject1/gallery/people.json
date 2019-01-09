@@ -1,0 +1,31 @@
+{
+    "images": [
+        {
+            "kategoria":"people",
+            "src":"gallery/IMG/people/6.jpg",
+            "thumbnail":"gallery/IMG/people/6_thumbnail.jpg",
+            "thumbnailWidth": 333,
+            "thumbnailHeight": 500,
+            "kuvateksti": "Malli: Oona Niskanen, 2018 kevät"
+        },
+
+        {
+            "kategoria":"people",
+            "src":"gallery/IMG/people/7.jpg",
+            "thumbnail":"gallery/IMG/people/7_thumbnail.jpg",
+            "thumbnailWidth": 333,
+            "thumbnailHeight": 500,
+            "kuvateksti": "Malli: Oona Niskanen, 2018 kevät"
+        },
+
+        {
+            "kategoria":"people",
+            "src":"gallery/IMG/people/16.jpg",
+            "thumbnail":"gallery/IMG/people/16_thumbnail.jpg",
+            "thumbnailWidth": 333,
+            "thumbnailHeight": 500,
+            "kuvateksti": "Malli: Oona Niskanen, 2018 kevät"
+        }      
+
+]
+}
