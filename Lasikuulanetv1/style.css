@@ -1,0 +1,271 @@
+body {
+    margin: 0;
+    background-color:#fcfcfc;
+}
+ 
+#kiinteayla { /* Yläpalkin asetukset */
+    background-color: #caced1;
+    background-image: url(kuvat/simple-gray-texture.jpg);
+    color: #000;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    height: 5em;
+    float: left;
+}
+                     @font-face { /* Fontin määritys nimelle */
+                     font-family: "Oma fontti";
+                     src: url(http://www.lasikuula.net/fontit/BEARHUGSBYRATTICSASSIN-Regular.ttf) format("truetype"); 
+                        }
+
+                    .nimi {
+                        width:30%;
+                        font-family: "Oma fontti", Georgia, "Times New Roman", Serif, verdana;
+                        color: #000;
+                        font-weight: 500;
+                        font-size: 3em;
+                        padding-top: 10px;
+                        padding-left: 20px;
+                        float: left;
+                        overflow: hidden;
+                        }
+
+
+                    .linkit { /* Navigoinnin asetukset */
+                        width: 60%;
+                        float: center;
+                        padding: 15px;
+                        font-family: Verdana, "Times New Roman", Serif, georgia;
+                        text-transform: uppercase;
+                        overflow: hidden;
+                    }
+                    .linkit a {
+                        margin-left: 2px;
+                        display: block;
+                        width: 155px;
+                        font-size: 100%;
+                        text-align: center;
+                        background-color: #caced1;
+                        color: #0a1c27;
+                        padding: 10px;
+                        text-decoration: none;
+                        border-radius: 20px;
+                    }
+
+                    .linkit a:hover,
+                    .linkit a:active {
+                        background-color: #0a1c27;
+                        color: #fcfcfc;
+                        border-radius: 20px;
+                        text-decoration: none;
+                    }
+                    .linkit ul {
+                        list-style-type: none;
+                        margin: 0;
+                        padding: 0;
+                    }
+
+                    .linkit li {
+                        float:left;
+                    }
+
+                    .alavalikko li {
+                        display: none;
+                    }
+
+                    .alavalikko:hover li{
+                        display: block;
+                        float:none;
+                    }
+  
+#tarkeininfo { /* sivuston oletustekstialueen asetukset */
+    margin-top: 5em;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    background-color: #0a1c27;
+    float: left;
+    width: 100%;
+}
+
+        .esittelylaatikko { /* laatikko oletustekstialueen sisälle, johon teksti tulee */
+                padding: 1em;
+                width: 70%;
+                margin: auto;
+                background-color: #fbfbfd;
+                border: 1px solid #000000;
+                border-radius: 20px;
+                box-shadow: 0px 7px 42px #000000;
+                }
+                    #etusivunkuva{
+                        max-width: auto;
+                        border-radius: 50%;
+                        padding: 0.5em;
+                        float:left;
+                        }
+
+#sisalto { /* ylimääräiselle sisällölle asetukset */
+    background-color: #950020;
+    float: left;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+    color:#caced1;
+    width: 100%;
+}
+
+#keskitys {
+    width: 100%;
+    padding-left: 13%;
+}
+
+        .laatikko { /* tekstilaatikon asetukset */
+                padding: 1em;
+                width: 20%;
+                color: black;
+                float: left;
+
+                background-color: #fbfbfd;
+                box-shadow: 0px 7px 42px #000000;
+                border-radius: 20px;
+                margin: 20px;
+                
+                }
+                            .sosiaalinenmedia { /* some-linkkien asetukset */
+                                font-size: 4em;
+                            }
+                            .sosiaalinenmedia a {
+                                color:#0a1c27;
+                                letter-spacing: 0.2em;
+                                text-decoration: none;
+                            }
+
+                            .sosiaalinenmedia a:hover, .sosiaalinenmedia a:active {
+                                color: #950020;
+                                text-decoration: underline;
+                            }
+
+.galleria { /* gallerian tekstilaatikon asetukset */
+                padding: 1em;
+                width: 70%;
+                margin: auto;
+                margin-top: 20px;
+                background-color: #fbfbfd;
+                border: 1px solid #000000;
+                border-radius: 20px;
+                box-shadow: 0px 7px 42px #000000;
+                }
+
+
+#footer { /* Alapalkin asetukset */
+    float: left;
+    width: 100%;
+    background-color:#caced1;
+    height: 40px;
+    padding-top:20px;
+    text-align: center;
+    color: darkgray;
+    font-family: verdana, "Times New Roman", Georgia, Serif;
+    font-size: 0.85em;
+}
+
+/* Kaikille sivuille olennaiset jutut, kuten linkkien muokkaukset */
+
+a {
+    color: #950020;
+    letter-spacing: 0.2em;
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    color: #0a1c27;
+    text-decoration: underline;
+}
+
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1em;
+    color:#950020;
+    font-family: "Courier New", cursive, monospace, sans-serif, "Times New Roman";
+}
+
+h1, h2 {
+    color:#950020;
+    font-family: "Courier New", cursive, monospace, sans-serif, "Times New Roman";
+    font-weight: 200;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+/* pienille näytöille */
+
+@media only screen and (max-width: 1200px) {
+    
+    #tarkeininfo {
+    margin-top: 0em;
+    }
+    
+    #kiinteayla {
+    width: 100%;
+    height: 9em;
+    position: relative;
+}
+                      .nimi {
+                        width: 100%;
+                        text-align: center;
+                        }
+
+
+                    .linkit {
+                        padding-left: 5em;
+                        width: 100%;
+                    }
+
+
+
+           .laatikko {
+                width: 60%;    
+                }
+
+}
+
+@media only screen and (max-width: 725px) {
+    #kiinteayla {
+        position: relative;
+    }
+    #tarkeininfo {
+    margin-top: 0em;
+    }
+    
+    #kiinteayla {
+    width: 100%;
+    height: 12em;
+}
+                      .nimi {
+                        width: 100%;
+                        text-align: center;
+                        }
+
+
+                    .linkit {
+                        padding-left: 5em;
+                        width: 100%;
+                    }
+                        .alavalikko:hover li{
+                        display: none;
+                        float:none;
+                    }
+
+
+           .laatikko {
+                width: 60%;    
+                }
+
+}

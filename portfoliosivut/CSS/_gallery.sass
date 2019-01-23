@@ -1,0 +1,51 @@
+//Arrow
+
+.arrow_box 
+    position: relative
+    background: #ab7897
+
+.arrow_box:after 
+    right: 100%
+    top: 50%
+    border: solid transparent
+    content: " "
+    height: 0
+    width: 0
+    position: absolute
+    pointer-events: none
+    border-color: rgba(136, 183, 213, 0)
+    border-right-color: #ab7897
+    border-width: 20px
+    margin-top: -20px
+
+.cursor
+    cursor: pointer
+
+.slide
+    background-size: cover
+    background-position: center
+    background-repeat: no-repeat
+
+.arrow
+    cursor: pointer
+    position: absolute
+    top: 50%
+    margin-top: -35px
+    width: 0
+    height: 0
+    border-style: solid
+
+#arrow-left
+    border-width: 30px 40px 30px 0
+    border-color: transparent #fff transparent transparent
+    left: 0
+    margin-left: 30px
+
+#arrow-right
+    border-width: 30px 0 30px 40px
+    border-color: transparent transparent transparent #fff
+    right: 0
+    margin-right: 30px
+
+#nightmare
+    padding-top: 100px
