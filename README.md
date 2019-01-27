@@ -1,11 +1,15 @@
 # Lasikuula.github.io
 
-* This is my gurrent portfolio, where I share my web projects. Some of these works are done at school some on my freetime
+* This is my current portfolio, where I share my web projects. Some of these works are done at school and some on my freetime
 
 # Live previews
 
-* Template1: https://lasikuula.github.io/template1/index.html
+* Lasikuula.net version 1: https://lasikuula.github.io/Lasikuulanetv1/index.html (this was also my first schoolproject at JAMK)
 
-* School project1: https://lasikuula.github.io/harjoitustyo/index.html ( Navigation and Portfolio site not work here. Use this, if you want see them work right: https://student.labranet.jamk.fi/~L4062/harjoitustyo/index.html )
+* My current template on my portfolio: https://lasikuula.github.io/portfoliosivut/
+
+* Template1, done at home: https://lasikuula.github.io/template1/index.html
+
+
 
 
