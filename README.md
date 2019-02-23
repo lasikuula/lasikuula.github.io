@@ -5,9 +5,9 @@
 # Live previews
 
 <img src="http://i67.tinypic.com/2illq9c.jpg" title="hover text">
-* Lasikuula.net version 1: https://lasikuula.github.io/Lasikuulanetv1/index.html 
-- This was my first schoolproject at JAMK
-- HTML/CSS
+Lasikuula.net version 1: https://lasikuula.github.io/Lasikuulanetv1/index.html 
+<p>- This was my first schoolproject at JAMK</p>
+<p>- HTML/CSS</p>
 
 * My current template on my portfolio: https://lasikuula.github.io/portfoliosivut/
 
