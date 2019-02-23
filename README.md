@@ -4,8 +4,9 @@
 
 # Live previews
 
-<img src="http://i67.tinypic.com/2illq9c.jpg" title="hover text">
-Lasikuula.net version 1: https://lasikuula.github.io/Lasikuulanetv1/index.html 
+<img src="http://i67.tinypic.com/2illq9c.jpg" title="Lasikuula.net">
+<h3>Lasikuula.net version 1</h3>
+<p>Live:  https://lasikuula.github.io/Lasikuulanetv1/index.html </p>
 <p>- This was my first schoolproject at JAMK</p>
 <p>- HTML/CSS</p>
 
