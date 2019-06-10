@@ -30,7 +30,7 @@
         <div include="html/navigation.html"></div>
         
 <!-- Page Content -->
-    <header class="etusivu-header">
+    <header class="bg-cv-light etusivu-header">
             <section class="profiilikuva" id="profiili">         
               <!-- Kuvan päälle teksti -->
               <div class="container mr-auto header-teksti">
@@ -42,6 +42,39 @@
               </div>
             </section>
     </header>
+
+    <!-- Contact-form -->
+    <section class="bg-cv-light resume-section p-4 pt-0 p-lg-5 text-center" id="contact">
+        <div class="my-auto">
+          <h2 class="mb-4">Yhteystiedot</h2>
+
+          <ul class="fa-ul mb-4 ml-0">
+            <li id="mail-address">
+                <i class="fas fa-envelope-open mr-2 contact-icons"></i
+                >lasikuula@hotmail.fi</a
+              >
+            </li>
+            <li>
+              <i class="fas fa-map-marker-alt mr-2 contact-icons"></i>Jyväskylä, FI
+            </li>
+          </ul>
+
+          <form class="contact-form d-flex flex-column align-items-center" action="https://formspree.io/lasikuula@hotmail.fi" method="POST">
+            <div class="form-group w-75">
+              <input type="name" class="form-control" placeholder="Nimi" name="name" required/>
+            </div>
+            <div class="form-group w-75">
+              <input type="email" class="form-control" placeholder="Sähköposti" name="name" required/>
+            </div>
+
+            <div class="form-group w-75">
+              <textarea class="form-control" type="text" placeholder="Viesti" rows="7" name="name" required></textarea>
+            </div>
+
+            <button type="submit" class="btn btn-submit btn-danger w-75">Lähetä</button>
+          </form>
+        </div>
+      </section>
 
     <!-- Footer -->
     <div include="html/footer.html"></div>
