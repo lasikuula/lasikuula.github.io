@@ -1,6 +1,14 @@
 # Lasikuula.github.io
 
-* This is my current portfolio, where I share my web projects. Some of these works are done at school and some on my freetime. Folder name told if it is done at school
+* This is my current portfolio, where I share my web projects. Some of these works are done at school and some on my freetime. Folder name told if it is done at school. 
+
+I have also work experience following:
+- AngularJS, Angular, Angular material, flex layout
+- TypeScript and JavaScipt
+- Wordpress (PHP developing)
+- Firebase
+- Docker
+- NodeJS, Express
 
 # Live previews
 
