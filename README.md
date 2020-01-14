@@ -1,6 +1,6 @@
 # Lasikuula.github.io
 
-* This is my current portfolio, where I share my web projects. Some of these works are done at school and some on my freetime
+* This is my current portfolio, where I share my web projects. Some of these works are done at school and some on my freetime. Folder name told if it is done at school
 
 # Live previews
 
