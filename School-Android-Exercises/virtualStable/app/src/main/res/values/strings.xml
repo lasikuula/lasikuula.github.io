@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VirtualStable</string>
+    <string name="textEmailAddress">email</string>
+    <string name="textUsername">username</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "390904144563",
+    "firebase_url": "https://virtualstableproject.firebaseio.com",
+    "project_id": "virtualstableproject",
+    "storage_bucket": "virtualstableproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390904144563:android:77e3760fc3cb4b7f5306c6",
+        "android_client_info": {
+          "package_name": "com.example.virtualstable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390904144563-dbe3kel1fql67vfj97gnbe090lr8mg4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.virtualstable",
+            "certificate_hash": "21c4666f085815f63c52389a28e3eb31d07eef21"
+          }
+        },
+        {
+          "client_id": "390904144563-1d2eth33b8vevf9ntduh90fpc5m6loav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf67-wy79yINMthrr6avcJqUUNhS6wIm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390904144563-1d2eth33b8vevf9ntduh90fpc5m6loav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SumCalculator</string>
+    <string name="addNumberOne">Give first number</string>
+    <string name="addNumberTwo">Give another number</string>
+    <string name="sumText">Sum of numbers is</string>
+    <string name="sum" />
+    <string name="calculate">Calculate</string>
+<<<<<<< HEAD
+    <string name="sumCalculate">Calculate</string>
+=======
+    <string name="makeSum">sum</string>
+>>>>>>> cd7c5a60be8af70840137794a0974ed82af7a6d5
+</resources>
