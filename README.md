@@ -10,29 +10,29 @@
 - Docker
 - NodeJS, Express
 
-# Live previews
+# Previews and demos
 
-## Lasikuula.net version 1
+### Lasikuula.net version 1
 Live:  https://lasikuula.github.io/Lasikuulanetv1/index.html
 - School project
 - HTML/CSS
 
-## Lasikuula.net version 2
+### Lasikuula.net version 2
 Live: https://lasikuula.github.io/portfoliosivut/
   * Bootstrap
   * HTML/SASS
 
-## Template 1: Snow
+### Template 1: Snow
 Live: https://lasikuula.github.io/template1/index.html
   * HTML/CSS/JS
   * Navbar training
   
-## School-Android-Exercises
+### School-Android-Exercises
 * School exercises
 * Android
 * Kotlin/Android studio
 
-## School-TTMS0700-Web-project-2
+### School-TTMS0700-Web-project-2
 Demo: https://youtu.be/VdQLPFUAnEE
   * School project in group of four
   * What I did here (in finnish):
