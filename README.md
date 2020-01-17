@@ -1,6 +1,6 @@
 # Lasikuula.github.io
 
-* This is my current portfolio, where I share my web projects. Some of these works are done at school and some on my freetime. Folder name told if it is done at school. 
+This is my current portfolio, where I share my web projects. Some of these works are done at school and some on my freetime. Folder name told if it is done at school. 
 
 ### I have also work experience about following:
 - AngularJS, Angular, Angular material, flex layout
@@ -36,12 +36,12 @@ Live: https://lasikuula.github.io/template1/index.html
 Demo: https://youtu.be/VdQLPFUAnEE
   * School project in group of four
   * What I did here (in finnish):
-  - Tietokannan suunnittelu (kaikki yhdessä)
-  - Tietokannan toteutus käytännössä ensin workbenchissä, sitten Digital oceanissa
-  - Digital Ocean dropletin tilaus ja koneen esiasennus
-  - Samban asennus sekä käyttöönotto
-  - Laravellin asennus sekä käyttöönotto
-  - Päälayoutin asentaminen (Noora teki ulkoasun rungon perinteiseen tyyliin ensin)
-  - Hakupalkki
-  - Kuvat sivustolle
+    - Tietokannan suunnittelu (kaikki yhdessä)
+    - Tietokannan toteutus käytännössä ensin workbenchissä, sitten Digital oceanissa
+    - Digital Ocean dropletin tilaus ja koneen esiasennus
+    - Samban asennus sekä käyttöönotto
+    - Laravellin asennus sekä käyttöönotto
+    - Päälayoutin asentaminen (Noora teki ulkoasun rungon perinteiseen tyyliin ensin)
+    - Hakupalkki
+    - Kuvat sivustolle
   * Laravel/PHP/MySQL
