@@ -1,0 +1,22 @@
+.generator {
+  padding: 14px;
+  text-align: center;
+}
+
+.final {
+  text-align: center;
+}
+
+.centered {
+  margin: 0 auto;
+  width: 50%;
+}
+
+.centered ul {
+  list-style-type: none;
+}
+
+.informationInput {
+  width: 80%;
+  padding-bottom: 12px !important;
+}
