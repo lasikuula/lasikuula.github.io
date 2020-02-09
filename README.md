@@ -1,8 +1,8 @@
 # Lasikuula.github.io
 
-* This is my current portfolio, where I share my web projects. Some of these works are done at school and some on my freetime. Folder name told if it is done at school. 
+This is my current portfolio, where I share my web projects. Some of these works are done at school and some on my freetime. Folder name told if it is done at school. 
 
-I have also work experience following:
+### I have also work experience about following:
 - AngularJS, Angular, Angular material, flex layout
 - TypeScript and JavaScipt
 - Wordpress (PHP developing)
@@ -10,19 +10,38 @@ I have also work experience following:
 - Docker
 - NodeJS, Express
 
-# Live previews
+# Previews and demos
 
-<h3>Lasikuula.net version 1</h3>
-<p>Live:  https://lasikuula.github.io/Lasikuulanetv1/index.html </p>
-<p>- School project</p>
-<p>- HTML/CSS</p>
+### Lasikuula.net version 1
+Live:  https://lasikuula.github.io/Lasikuulanetv1/index.html
+- School project
+- HTML/CSS
 
-<h3>Lasikuula.net version 2</h3>
-<p>Live: https://lasikuula.github.io/portfoliosivut/</p>
-<p>- Bootstrap</p>
-<p>- HTML/SASS</p>
+### Lasikuula.net version 2
+Live: https://lasikuula.github.io/portfoliosivut/
+  * Bootstrap
+  * HTML/SASS
 
-<h3>Template 1: Snow</h3>
-<p>Live: https://lasikuula.github.io/template1/index.html</p>
-<p>- HTML/CSS/JS</p>
-<p>- Navbar training</p>
+### Template 1: Snow
+Live: https://lasikuula.github.io/template1/index.html
+  * HTML/CSS/JS
+  * Navbar training
+  
+### School-Android-Exercises
+* School exercises
+* Android
+* Kotlin/Android studio
+
+### School-TTMS0700-Web-project-2
+Demo: https://youtu.be/VdQLPFUAnEE
+  * School project in group of four
+  * What I did here (in finnish):
+    - Tietokannan suunnittelu (kaikki yhdessä)
+    - Tietokannan toteutus käytännössä ensin workbenchissä, sitten Digital oceanissa
+    - Digital Ocean dropletin tilaus ja koneen esiasennus
+    - Samban asennus sekä käyttöönotto
+    - Laravellin asennus sekä käyttöönotto
+    - Päälayoutin asentaminen (Noora teki ulkoasun rungon perinteiseen tyyliin ensin)
+    - Hakupalkki
+    - Kuvat sivustolle
+  * Laravel/PHP/MySQL
