@@ -1,5 +1,7 @@
 # Lasikuula.github.io
 
+Note: I have not updated this for about 2 years now. My current job keeps me too busy to do my own projects.
+
 This is my current portfolio, where I share my web projects. Some of these works are done at school and some on my freetime. Folder name told if it is done at school. 
 
 ### I have also work experience about following:
